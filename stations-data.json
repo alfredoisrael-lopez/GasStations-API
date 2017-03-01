@@ -1,0 +1,17 @@
+{
+    "id" : "1",
+    "name" : "Hidrosina Narvarte",
+    "address" : {
+        "street" : "Dr Jose Maria Vertiz",
+        "number" : "636",
+        "neighborhood" : "Narvarte Oriente",
+        "city" : "Cd. de Mexico",
+        "state" : "CDMX",
+        "country" : "MX"
+    },
+    "location" : {
+        "coordinates" : [-73.856077,40.848447],
+        "type" : "Point"
+    },
+    "reviews" : []
+}

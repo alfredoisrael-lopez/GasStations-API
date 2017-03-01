@@ -1,0 +1,3 @@
+mongodb://gasuser:hrrJT8Rt@horace.1.mongolayer.com:10281,horace.0.mongolayer.com:10281/GasStationsDB?replicaSet=set-5671a0044921b75b38001402
+
+horace.1.mongolayer.com,horace.0.mongolayer.com

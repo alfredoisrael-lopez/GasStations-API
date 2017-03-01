@@ -1,0 +1,12 @@
+{
+  "compose-mongo-db": {
+    "host": "horace.1.mongolayer.com,horace.0.mongolayer.com",
+    "port": 10281,
+    "url": "mongodb://gasuser:hrrJT8Rt@horace.1.mongolayer.com:10281,horace.0.mongolayer.com:10281/GasStationsDB?replicaSet=set-5671a0044921b75b38001402",
+    "database": "GasStationsDB",
+    "password": "hrrJT8Rt",
+    "name": "compose-mongo-db",
+    "user": "gasuser",
+    "connector": "mongodb"
+  }
+}
